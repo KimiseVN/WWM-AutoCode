@@ -11,7 +11,7 @@
 - **Auto-redeem** every active gift code into the in-game *Exchange Code* dialog.
 - **Codes from the cloud** — fetches the live code list automatically (same source as the website); marks each code **Used / Invalid / Expired**.
 - **Resolution-independent** — works at any game window size/position, windowed or fullscreen-borderless (auto-detects the game window).
-- **Multi-language game detection** — works whether the game UI is **English, Russian or Vietnamese**.
+- **Multi-language game detection** — works with all languages in-game.
 - **Modern UI** — tabs (All / Unused / Used / Expired), search, live status, glass theme.
 - **UI language EN / RU / VI** — one flag button, remembered for next time.
 - **One hotkey** `F6` to Start/Stop. Calibrate in one click.
@@ -71,7 +71,7 @@ Made by **★ムKim · Trinity Guild WWM**.
 
 <h2 align="center">🇻🇳 Tiếng Việt</h2>
 
-**WWM-AutoCode** — công cụ tự động nhập giftcode cho game **Where Winds Meet** (PC). Tự nhập toàn bộ code còn hạn, chạy đúng ở mọi kích thước/vị trí cửa sổ, hỗ trợ game tiếng **Anh / Nga / Việt**, giao diện hiện đại, tự cập nhật.
+**WWM-AutoCode** — công cụ tự động nhập giftcode cho game **Where Winds Meet** (PC). Tự nhập toàn bộ code còn hạn, chạy đúng ở mọi kích thước/vị trí cửa sổ, hỗ trợ game mọi ngôn ngữ, giao diện hiện đại, tự cập nhật.
 
 ### Yêu cầu
 - **Windows 10/11 (64-bit)**, có **Edge WebView2 Runtime** (Win11 có sẵn; Win10 nếu cửa sổ trắng thì cài "Evergreen WebView2 Runtime" miễn phí của Microsoft).
