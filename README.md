@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" width="110" alt="WWM-AutoCode">
-</p>
-
 <h1 align="center">WWM-AutoCode</h1>
 
 <p align="center">
